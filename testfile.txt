@@ -1,1 +1,2 @@
 this is my second trying to be a QA
+and this is my trying to add some lines with github
